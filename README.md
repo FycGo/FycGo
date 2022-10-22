@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FDYC
+- 👋 Hi, I’m @FYC
 - 👀 I’m interested in TTS, Arch Linux and Java.
 - 🌱 I’m currently learning TTS and Java.
 - 💞️ I’m looking to collaborate on TTS.
