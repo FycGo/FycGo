@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FYC
 - 👀 I’m interested in TTS, Arch Linux and Java.
-- 🌱 I’m currently learning TTS and Java.
-- 💞️ I’m looking to collaborate on TTS.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on Java.
 - 📫 How to reach me, My email is fycflc@outlook.com.
 
 <!---
